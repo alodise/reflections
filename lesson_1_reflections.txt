@@ -1,0 +1,7 @@
+It helped because I didn't have to spend lots of time comparing both files. 
+It also prevented my mind from skipping over a typo.
+This also makes it so that I remember what I changed from both files rather than storing it in my brain.
+
+If I decide to go back to a different state of a program, I don't have to remember what I did.
+
+If you are a beginner and forget to commit it's a con, but you won't have to search through a bunch of small changes which will make you more efficient which is a pro.
